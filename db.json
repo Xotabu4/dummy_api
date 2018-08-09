@@ -1,0 +1,5 @@
+{
+  "user": [
+        { "username": "tomsmith", "password": "SuperSecretPassword!" }
+    ]
+}
